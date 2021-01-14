@@ -1,0 +1,52 @@
+.top{
+    background-color: #FFF9F4;
+}
+.main-logo{
+    height: 40px;
+    width: 285px;
+}
+.header-img{
+    width: 60%;
+    float: left;
+}
+.button-logo{
+    height: 30px;
+    width: 30px;
+}
+.product-img{
+    width: 90%;
+    height: 90%;
+    margin: auto;
+    margin-top: 15px;
+    border-radius: 15px;
+    background-color: #F1F1F1;
+}
+
+.customize-card{
+    border: 0;
+}
+.push-cart-img{
+    width: 60%;
+    margin-left: 50px;
+}
+.side-icon{
+    width: 50px;
+    height: 50px;
+}
+.coloring{
+    color: #FA804C;
+}
+.heading-coloring{
+    color: rgba(54, 57, 88, 1);
+}
+.theEnd{
+    text-align: center;
+    font-size: xx-small;
+}
+p{
+    text-align: justify;
+}
+.fonting{
+    font-weight: bold;
+    font-size: 50px;
+}
