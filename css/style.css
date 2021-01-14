@@ -39,14 +39,14 @@
 .heading-coloring{
     color: rgba(54, 57, 88, 1);
 }
-.theEnd{
-    text-align: center;
-    font-size: xx-small;
-}
 p{
     text-align: justify;
 }
 .fonting{
     font-weight: bold;
     font-size: 50px;
+}
+.theEnd{
+    text-align: center;
+    font-size: xx-small;
 }
